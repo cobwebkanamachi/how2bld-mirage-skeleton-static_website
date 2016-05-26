@@ -74,7 +74,7 @@ I reffer /etc/network/interfaces shown url(then added some).
 3. mirage_skeleton/static_website
 mirage configure cmdline is shown bellow.
 http://www.skjegstad.com/blog/2015/01/19/mirageos-xen-virtualbox/ <BR>
-you would use opam swith to use up2date ocaml compiler.
+you would use opam switch to use up2date ocaml compiler.
 4. test result<BR>
 xl create www.xl -c<BR>
 app's listen port is 8080(default).<BR>
